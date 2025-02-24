@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6b76d5a-81fe-4498-929d-30a36c6dfc00)# Capstone Project for IBM Data Science Professional Certificate
+# Capstone Project for IBM Data Science Professional Certificate
 by Albertus Erwin Susanto 阎余文
 
 ## Intro
